@@ -15,3 +15,4 @@ variable "numero_conta" {
 variable "regiao-aws" {
   default = "us-east-2"
 }
+
